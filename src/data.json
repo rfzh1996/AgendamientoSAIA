@@ -238,42 +238,48 @@
         {
             "id": 1,
             "name": {
-                "en": "Sport"
+                "en": "Sport",
+                "es": "Deportes"
             },
             "published": 1
         },
         {
             "id": 2,
             "name": {
-                "en": "Technology"
+                "en": "Technology",
+                "es": "Tecnología"
             },
             "published": false
         },
         {
             "id": 3,
             "name": {
-                "en": "Code"
+                "en": "Code",
+                "es": "Codigo"
             },
             "published": true
         },
         {
             "id": 4,
             "name": {
-                "en": "Photo"
+                "en": "Photo",
+                "es": "Fotografía"
             },
             "published": false
         },
         {
             "id": 5,
             "name": {
-                "en": "Music"
+                "en": "Music",
+                "es": "Música"
             },
             "published": 1
         },
         {
             "id": 6,
             "name": {
-                "en": "Parkour"
+                "en": "Parkour",
+                "es": "Parkour"
             },
             "published": 1,
             "parent_id": 1

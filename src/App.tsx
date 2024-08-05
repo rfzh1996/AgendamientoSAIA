@@ -39,6 +39,6 @@ show={ShowGuesser}
       show={ShowGuesser}
       icon={ChatBubbleIcon}
       />
-      <Resource name="tags" recordRepresentation={tag => tag.name.en} />
+      <Resource name="tags" recordRepresentation={tag => tag.name.es} />
       </Admin>
 );
